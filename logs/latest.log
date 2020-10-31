@@ -1,0 +1,370 @@
+[13:45:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:45:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:45:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:45:30] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[13:45:30] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_261, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_261
+[13:45:30] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[13:45:30] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[13:45:30] [main/INFO] [FML]: Searching C:\Users\weber\Desktop\serva\.\mods for mods
+[13:45:30] [main/INFO] [FML]: Searching C:\Users\weber\Desktop\serva\.\mods\1.12.2 for mods
+[13:45:30] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
+[13:45:30] [main/WARN] [FML]: The coremod Snow! Real Magic! Core Mod (snownee.snow.asm.SnowRealMagicPlugin) is not signed!
+[13:45:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:45:30] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[13:45:30] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/weber/Desktop/serva/./mods/malisiscore-1.12.2-6.5.1.jar Service=LaunchWrapper Env=SERVER
+[13:45:30] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:45:30] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[13:45:30] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[13:45:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:45:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:45:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:45:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:45:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:45:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:45:33] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[13:45:33] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5533dc72
+[13:45:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:45:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:45:34] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[13:45:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:45:34] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[13:45:35] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:45:40] [main/INFO] [FML]: 3 patches loaded!
+[13:45:40] [main/INFO] [FML]: dynmap [Remaps BukkitVersionHelperCB and BukkitVersionHelperGeneric to support Magma version] loaded
+[13:45:40] [main/INFO] [FML]: CoreProtect [Changes Material to Magma's getBlockMaterial that has modded block materials ] loaded
+[13:45:40] [main/INFO] [FML]: Essentials [Fixes Commands in Essentials] loaded
+[13:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[13:45:40] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[13:45:40] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:45:41] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:45:41] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:45:41] [Server thread/INFO] [FML]: Searching C:\Users\weber\Desktop\serva\.\mods for mods
+[13:45:41] [Server thread/INFO] [FML]: Searching C:\Users\weber\Desktop\serva\.\mods\1.12.2 for mods
+[13:45:43] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[13:45:43] [Server thread/INFO] [FML]: Forge Mod Loader has identified 17 mods to load
+[13:45:43] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[13:45:43] [Server thread/WARN] [FML]: Missing English translation for eternalwinter: assets/eternalwinter/lang/en_us.lang
+[13:45:43] [Server thread/WARN] [FML]: Missing English translation for fastleafdecay: assets/fastleafdecay/lang/en_us.lang
+[13:45:43] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[13:45:43] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:45:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, cfm, chisel, chiselsandbits, customnpcs, props, eternalwinter, fastleafdecay, malisiscore, malisisdoors, moreplayermodels, morpheus, snowrealmagic] at CLIENT
+[13:45:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, cfm, chisel, chiselsandbits, customnpcs, props, eternalwinter, fastleafdecay, malisiscore, malisisdoors, moreplayermodels, morpheus, snowrealmagic] at SERVER
+[13:45:45] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:45:45] [Server thread/INFO] [FML]: Found 1257 ObjectHolder annotations
+[13:45:46] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:45:46] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[13:45:46] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:45:50] [Server thread/INFO] [FML]: Applying holder lookups
+[13:45:50] [Server thread/INFO] [FML]: Holder lookups applied
+[13:45:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[13:45:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[13:45:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[13:45:50] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was de_DE, switching to Locale.US
+[13:45:50] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[13:45:51] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to de_DE
+[13:46:10] [Server thread/INFO] [eternalwinter]: Starting up eternal winter mod
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
+[13:46:10] [Server thread/INFO] [malisiscore]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `customdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `saloondoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `verticalhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `garagedoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `door3x3`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bigdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rustyhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doorfactorytileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `forcefieldtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fencegatetileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:11] [Server thread/WARN] []: [13:46:11][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:106] Sat Oct 31 13:46:11 CET 2020
+
+[13:46:11] [Server thread/WARN] []: [13:46:11][FINE/MorePlayerModels][noppes.mpm.MorePlayerModels:106] Loading
+
+[13:46:11] [Server thread/INFO] [morpheus]: Loading configuration
+[13:46:11] [Server thread/INFO] [Chisel]: Loading blocks...
+[13:46:11] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[13:46:12] [Server thread/INFO] [Chisel]: 71 Feature's blocks loaded.
+[13:46:12] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[13:46:12] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `snow_layer`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:12] [Server thread/INFO] [FML]: Applying holder lookups
+[13:46:12] [Server thread/INFO] [FML]: Holder lookups applied
+[13:46:12] [Server thread/INFO] [Chisel]: Loading items...
+[13:46:12] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[13:46:16] [Server thread/INFO] [Chisel]: 71 Feature's items loaded.
+[13:46:16] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `snow_layer`, expected `snowrealmagic`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:16] [Server thread/INFO] [FML]: Applying holder lookups
+[13:46:16] [Server thread/INFO] [FML]: Holder lookups applied
+[13:46:16] [Server thread/INFO] [FML]: Applying holder lookups
+[13:46:16] [Server thread/INFO] [FML]: Holder lookups applied
+[13:46:16] [Server thread/INFO] [FML]: Applying holder lookups
+[13:46:16] [Server thread/INFO] [FML]: Holder lookups applied
+[13:46:16] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:46:16] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:46:16] [Server thread/WARN] [FML]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with org.magmafoundation.magma.commands.permission.BukkitPermissionsHandler
+[13:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[13:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[13:46:17] [Server thread/INFO] [Minecraft]: This server is running Magma version e69a953 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[13:46:17] [Server thread/INFO] [Spigot]: Server Ping Player Sample Count: 12
+[13:46:17] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[13:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[13:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 0.0.0.0:25565
+[13:46:17] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[13:46:20] [Server thread/INFO] [Chisel]: Loading recipes...
+[13:46:20] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[13:46:20] [Server thread/INFO] [Chisel]: 71 Feature's recipes loaded.
+[13:46:20] [Server thread/INFO] [FML]: Applying holder lookups
+[13:46:20] [Server thread/INFO] [FML]: Holder lookups applied
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[13:46:20] [Server thread/WARN] []: [13:46:20][FINE/CustomNPCs][noppes.npcs.LogWriter:71] Sat Oct 31 13:46:20 CET 2020
+
+[13:46:20] [Server thread/WARN] []: [13:46:20][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Script Engines Available:
+
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
+[13:46:24] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
+[13:46:24] [Server thread/INFO] []: Markov dictionaries loaded!
+[13:46:25] [Server thread/INFO] [eternalwinter]: Modified 130 Biomes modified successful!
+[13:46:25] [Server thread/INFO] [eternalwinter]: Missing core mod, client will have rain if the mod is missing!
+[13:46:25] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:46:25] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:46:25] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 17 mods
+[13:46:25] [Server thread/WARN] []: [13:46:25][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+
+[13:46:25] [Server thread/WARN] []: [13:46:25][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+
+[13:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[13:46:27] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[13:46:27] [Server thread/INFO] [Minecraft]: -------- World Settings For [world] --------
+[13:46:27] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[13:46:27] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[13:46:27] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:46:27] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[13:46:27] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[13:46:27] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[13:46:27] [Server thread/INFO] [Minecraft]: View Distance: 10
+[13:46:27] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[13:46:27] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:46:27] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:46:27] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:46:27] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[13:46:27] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[13:46:27] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:46:27] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[13:46:27] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[13:46:27] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[13:46:27] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:46:27] [Server thread/INFO] []: settings for world: 
+[13:46:27] [Server thread/INFO] []: Setting up landmass VANILLA
+[13:46:27] [Server thread/INFO] []: ChunkGeneratorOverworldBOP json: 
+[13:46:27] [Server thread/INFO] []: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[13:46:27] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6c917238)
+[13:46:28] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 725 advancements
+[13:46:29] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM1] --------
+[13:46:29] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[13:46:29] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[13:46:29] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[13:46:29] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[13:46:29] [Server thread/INFO] [Minecraft]: View Distance: 10
+[13:46:29] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[13:46:29] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:46:29] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:46:29] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:46:29] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[13:46:29] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:46:29] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[13:46:29] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[13:46:29] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:46:29] [Server thread/INFO] [FML]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@6c917238)
+[13:46:29] [Server thread/INFO] [Minecraft]: -------- World Settings For [DIM-1] --------
+[13:46:29] [Server thread/INFO] [Minecraft]: Item Merge Radius: 2.5
+[13:46:29] [Server thread/INFO] [Minecraft]: Experience Merge Radius: 3.0
+[13:46:29] [Server thread/INFO] [Minecraft]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Item Despawn Rate: 6000
+[13:46:29] [Server thread/INFO] [Minecraft]: Zombie Aggressive Towards Villager: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Nerfing mobs spawned from spawners: false
+[13:46:29] [Server thread/INFO] [Minecraft]: View Distance: 10
+[13:46:29] [Server thread/INFO] [Minecraft]: Arrow Despawn Rate: 1200
+[13:46:29] [Server thread/INFO] [Minecraft]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:46:29] [Server thread/INFO] [Minecraft]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:46:29] [Server thread/INFO] [Minecraft]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:46:29] [Server thread/INFO] [Minecraft]: Mob Spawn Range: 4
+[13:46:29] [Server thread/INFO] [Minecraft]: Cactus Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Cane Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Melon Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Mushroom Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Pumpkin Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Sapling Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Wheat Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: NetherWart Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Vine Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Cocoa Growth Modifier: 100%
+[13:46:29] [Server thread/INFO] [Minecraft]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:46:29] [Server thread/INFO] [Minecraft]: Max TNT Explosions: 100
+[13:46:29] [Server thread/INFO] [Minecraft]: Random Lighting Updates: false
+[13:46:29] [Server thread/INFO] [Minecraft]: Structure Info Saving: true
+[13:46:29] [Server thread/INFO] [Minecraft]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:46:29] [Server thread/INFO] []: settings for hell world: 
+[13:46:29] [Server thread/INFO] [FML]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@6c917238)
+[13:46:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0 (Seed: -4471542715234144901)
+[13:46:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[13:46:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[13:46:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[13:46:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[13:46:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[13:46:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 14%
+[13:46:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
+[13:46:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 21%
+[13:46:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[13:46:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
+[13:46:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
+[13:46:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
+[13:46:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[13:46:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[13:46:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 51%
+[13:46:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 56%
+[13:46:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
+[13:46:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 64%
+[13:46:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 69%
+[13:46:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[13:46:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[13:46:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 81%
+[13:46:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
+[13:46:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
+[13:46:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 95%
+[13:46:57] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[13:46:57] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[13:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (31,520s)! For help, type "help" or "?"
+[13:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 0.0.0.0:25565
+[13:46:57] [Server thread/WARN] []: [13:46:57][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:44] Loading Dialogs
+
+[13:46:57] [Server thread/WARN] []: [13:46:57][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:46] Done loading Dialogs
+
+[13:46:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[13:56:17] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player PixelPommes is 154d0e4b-1661-4fe8-927b-af3134c8e060
+[13:56:17] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[13:56:17] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,FML@8.0.99.99,eternalwinter@1.0.2,customnpcs@1.12,biomesoplenty@7.0.1.2444,cfm@6.3.0,chisel@MC1.12.2-0.2.1.35,props@2.6.3,snowrealmagic@0.3.2,forge@14.23.5.2847,fastleafdecay@v14,chiselsandbits@14.33,malisisdoors@1.12.2-7.3.0,mcp@9.42,moreplayermodels@1.12.2,ctm@MC1.12.2-0.3.3.22
+[13:56:17] [Netty Server IO #3/INFO] [FML]: Attempting connection with missing mods [morpheus] at CLIENT
+[13:56:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[13:56:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PixelPommes[/127.0.0.1:55808] logged in with entity id 1050 at ([world]-28.5, 79.0, 260.5)
+[13:56:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /weather rain
+[13:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Changing to rainy weather]
+[13:56:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /gamemode 1
+[13:56:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Set own game mode to Creative Mode]
+[13:58:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /worldspwan
+[13:58:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /setworldspawn
+[13:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Set the world spawn point to (-582, 63, 177)]
+[13:58:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /kill
+[13:58:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PixelPommes fell out of the world
+[13:58:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Killed PixelPommes]
+[13:58:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /time set day
+[13:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Set the time to 1000]
+[13:58:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PixelPommes issued server command: /weather clear
+[13:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PixelPommes: Changing to clear weather]
