@@ -1,2 +1,2 @@
 import os
-os.system("java -Xmx2G -jar magma-server.jar")
+os.system("javac -Xmx2G -jar minecraft_server.1.12.2.jar")
